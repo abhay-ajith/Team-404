@@ -1,2 +1,2 @@
 # Team-404
-Online Voting System
+An online voting system is a software platform that allows groups to securely conduct votes and elections. Such systems balance security, accessibility, and the overall requirements of an organization's voting event. Electronic voting technology intends to speed up the counting of ballots, reduce the cost of paying staff to count votes manually, and can provide improved accessibility for disabled voters. Results can be reported and published faster.
