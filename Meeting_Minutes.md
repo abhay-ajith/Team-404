@@ -1,6 +1,6 @@
-Week 1 - Meetings
+# Week 1 - Meetings
 
-1st -Meeting
+## 1st -Meeting
 
 Date : 12-02-2022 
 Time :
@@ -20,7 +20,7 @@ Discussion:
   
 Status : Completed
 
-2nd -Meeting
+## 2nd -Meeting
 
 Date : 13-02-2022 
 Time :
@@ -41,7 +41,7 @@ Discussion:
   
 Status : Completed
 
-3rd - Meeting
+## 3rd - Meeting
 
 Date : 15-02-2022 
 Time :
@@ -60,5 +60,122 @@ Discussion:
   
 Status : Completed
 
-Week 2 - Meeting
+# Week 2 - Meeting
 
+## 1st -Meeting
+
+Date : 27-02-2022 
+Time : 6:00 PM
+Platform : Teams
+
+Meeting Created By : Abhay Ajith 
+Type of Meeting : Project Discussion
+
+Attendees :
+- Abhay (301), Amritha (305), Anjali (307), Sreelakshmi(353)
+Time Allocated: 60 min 
+Agenda : Discussion on UseCase diagram and User Stories.
+
+Discussion:
+  - We modified our Use_Case Diagram as per needs.
+  - We thought about what kind of the functions to include.
+  
+Status : Completed
+
+## 2nd -Meeting
+
+Date : 2-03-2022 
+Time :2:00 PM
+Platform : Class
+
+Type of Meeting : Project Discussion
+
+Attendees :
+- Abhay (301), Amritha (305), Anjali (307), Sreelakshmi(353)
+Time Allocated: 2 hr 
+Agenda : Class Diagram Idea
+
+Discussion:
+  - We finalized the functions and tables.
+  - We used lucid chart to create base of class diagram.
+  
+Status : Completed
+
+## 3rd - Meeting
+
+Date : 05-03-2022 
+Time : 7:00 PM
+Platform : Teams
+
+Meeting Created By : Abhay Ajith 
+Type of Meeting : Project Discussion
+
+Attendees :
+- Abhay (301), Amritha (305), Anjali (307), Sreelakshmi(353)
+Time Allocated: 15 min 
+Agenda : Class Diagram 
+
+Discussion:
+  - Created Class Diagram
+  
+Status : Completed
+
+# Week 3 - Meeting
+
+## 1st -Meeting
+
+Date : 16-03-2022 
+Time : 2:00 PM
+Platform : Class
+
+Meeting Created By : Abhay Ajith 
+Type of Meeting : Project Discussion
+
+Attendees :
+- Abhay (301), Amritha (305), Anjali (307), Sreelakshmi(353)
+Time Allocated: 60 min 
+Agenda : Discussion on UseCase diagram and User Stories.
+
+Discussion:
+  - Planned how to write the code
+  - Assigned the works
+  
+Status : Completed
+
+## 2nd -Meeting
+
+Date : 19-03-2022 
+Time :2:00 PM
+Platform : Class
+
+Type of Meeting : Project Discussion
+
+Attendees :
+- Abhay (301), Amritha (305), Anjali (307), Sreelakshmi(353)
+Time Allocated: 2 hr 
+Agenda : Class Diagram Idea
+
+Discussion:
+  - Familiarization with Github
+  - Familiarization with Tkinter
+  
+Status : Completed
+
+## 3rd - Meeting
+
+Date : 20-03-2022 
+Time : 7:00 PM
+Platform : Teams
+
+Meeting Created By : Abhay Ajith 
+Type of Meeting : Project Discussion
+
+Attendees :
+- Abhay (301), Amritha (305), Anjali (307), Sreelakshmi(353)
+Time Allocated: 3 hrs
+Agenda : Source Code
+
+Discussion:
+  - Coding Source Code
+  
+Status : Completed
