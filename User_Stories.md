@@ -11,6 +11,5 @@
   so that I will be able to ensure an organized travel plan and safe journey.[reason]
 
 
-- The Agent can do booking payments and view booking history [action]
+- The Agent can do booking payments and view booking history [action].
   so that I will be able to help the customer with the ticket booking process.[reason]
-
