@@ -6,9 +6,9 @@ One of the benefits is it is very easy to use and can be done by anyone. It is a
 There are separate functionalities for each actor. Any person across the world, having the internet can access this service.  Enable the user to view bus availability, book tickets as well as cancel them. The users can also update ticket details through update functionality provided by the system and finally print the ticket. This system will be a game-changer in the travel sector.
 
 
-- Programming Language - Python
+- Programming Language - Java
 - DBMS - PostgreSQL
-- User Interface - Tkinter
+- User Interface - Swing
 - Drawing Tools - Lucidchart and Draw.io
 
 ### Team Members :
