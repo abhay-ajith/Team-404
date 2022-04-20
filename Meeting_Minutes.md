@@ -255,6 +255,44 @@ Time Allocated: 30 min
 Agenda : Combine codes written by team members and debbuging
 
 Discussion:
-  - We combined the code and tried debugging it.The work done so far was made into a ppt and appended to our github repository.
+  - We combined the code and tried testing it.The work done so far was made into a ppt and appended to our github repository.
+  
+Status : Completed
+
+# Week 5 - Meeting
+
+## 1st - Meeting
+
+Date : 05-04-2022
+Time : 8:30 pm
+Platform : Discord
+Meetaing Created By : Abhay Ajith
+Type of Meeting : Project Discussion
+
+Attendees :
+- Abhay (301), Amritha (305), Anjali (307), Sreelakshmi(353)
+Time Allocated: 1 hr
+Agenda : Debugging the code
+
+Discussion:
+  - After we tried testing, we found some functionalities that didn't work as expected, so we started debugging.
+  
+Status : Completed
+
+## 2nd - Meeting
+
+Date : 12-04-2022
+Time : 9:30 pm
+Platform : Discord
+Meetaing Created By : Amritha Gopakumar
+Type of Meeting : Project Discussion
+
+Attendees :
+- Abhay (301), Amritha (305), Anjali (307), Sreelakshmi(353)
+Time Allocated: 30 min
+Agenda : Testing and implementation of the code
+
+Discussion:
+  - We tested the code, to which changes were made.
   
 Status : Incomplete
