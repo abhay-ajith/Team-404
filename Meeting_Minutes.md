@@ -225,7 +225,7 @@ Status : Completed
 ## 3rd - Meeting
 
 Date : 26-02-2022 
-Time :
+Time : 9 pm
 Platform : Discord
 
 Meeting Created By : Abhay Ajith
@@ -240,3 +240,21 @@ Discussion:
   - We finished the assigned works and made it to a ppt and added it to github
   
 Status : Completed
+
+##4th - Meeting
+
+Date : 04-03-2022
+Time : 9:30 pm
+Platform : Discord
+Meetaing Created By : Amritha Gopakumar
+Type of Meeting : Project Discussion
+
+Attendees :
+- Abhay (301), Amritha (305), Anjali (307), Sreelakshmi(353)
+Time Allocated: 30 min
+Agenda : Combine codes written by team members and debbuging
+
+Discussion:
+  - We combined the code and tried debugging it.The work done so far was made into a ppt and appended to our github repository.
+  
+Status : Incomplete
